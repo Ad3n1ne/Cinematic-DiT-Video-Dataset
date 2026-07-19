@@ -85,6 +85,8 @@ Acknowledgements:
 
 - [MarcoDJS](https://github.com/MarcoDJS) for research feedback and operational
   support.
+- [pity11](https://github.com/pity11) for research feedback and operational
+  support.
 
 ## Security
 
