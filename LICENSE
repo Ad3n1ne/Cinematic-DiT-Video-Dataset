@@ -1,0 +1,80 @@
+# Research and Content Safety Use License
+
+Version 1.0
+
+This license applies to the videos, metadata, prompts, shards, checksums, and
+dataset documentation released as the Cinematic DiT Video Dataset, unless a file
+states otherwise.
+
+## 1. Purpose
+
+The dataset is provided for non-commercial research and evaluation related to
+AI-generated video detection, media forensics, provenance analysis,
+authenticity assessment, and content-safety work.
+
+## 2. Allowed Uses
+
+You may use the dataset to:
+
+- train, validate, and benchmark models that detect or analyze AI-generated
+  video;
+- study synthetic-to-real distribution gaps, temporal artifacts, and forensic
+  signals;
+- reproduce non-commercial academic experiments and publish aggregate research
+  findings;
+- create derived statistics, labels, features, and evaluation results for the
+  allowed research purposes above.
+
+## 3. Prohibited Uses
+
+You may not use the dataset to:
+
+- train, fine-tune, distill, improve, benchmark, or evaluate generative video
+  models, including text-to-video, image-to-video, video-to-video, animation,
+  video editing, or video enhancement models;
+- build, improve, or operate commercial products or services;
+- create, improve, distribute, or assist deceptive, impersonating, harmful, or
+  misleading synthetic media;
+- present any generated video as authentic real-world footage or evidence of a
+  real event;
+- rehost, mirror, redistribute, sublicense, sell, rent, transfer, or publicly
+  republish the videos, shards, or a substantially equivalent copy of the
+  dataset;
+- attempt to identify private individuals or infer sensitive personal
+  attributes from generated content.
+
+## 4. Access Control
+
+Access is granted individually and may require a Hugging Face account,
+institutional or project information, a research-purpose statement, and
+acceptance of this license.
+
+The maintainers may deny, revoke, suspend, or limit access when a request is
+outside the intended scope, when misuse is suspected, when required by platform
+policy, or when needed to respond to a rights-holder, service-provider, or legal
+request.
+
+## 5. Attribution
+
+Research outputs using the dataset should cite the dataset card or associated
+paper, acknowledge the dataset name, and state that the videos are synthetic.
+
+## 6. No Warranty
+
+The dataset is provided as is, without warranties or guarantees of quality,
+fitness for a particular purpose, non-infringement, or legal suitability for
+any specific use.
+
+## 7. Third-Party Rights and Terms
+
+This license grants only rights that the maintainers can grant. It does not
+override third-party intellectual-property rights, personality rights, privacy
+rights, service-provider terms, platform terms, or applicable law. Users are
+responsible for ensuring that their use is lawful and permitted.
+
+## 8. Termination
+
+Your rights under this license terminate automatically if you violate its
+terms. Upon termination, you must stop using the dataset and delete any local
+copies of the videos and shards, except for derived aggregate results that do
+not contain or reconstruct the original videos.

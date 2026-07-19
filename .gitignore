@@ -1,0 +1,27 @@
+# Credentials and local secrets
+.env
+*.env
+accounts.txt
+*_token
+*token*
+hf_token
+github_token
+
+# Generated data and large release artifacts
+output/
+state/
+tasks/
+release/
+shards/
+*.mp4
+*.tar
+*.part
+*.tmp
+
+# Logs and runtime state
+*.log
+stats.csv
+__pycache__/
+*.py[cod]
+.DS_Store
+
